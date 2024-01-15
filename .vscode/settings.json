@@ -9,7 +9,7 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "local instance MySQK80",
+            "name": "local instance MySQL80",
             "username": "root",
             "database": "classicmodels",
             "askForPassword": true
